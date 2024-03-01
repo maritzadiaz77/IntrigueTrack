@@ -10,21 +10,15 @@ A command-line application from scratch to manage a company's employee database,
 * [Usage](#usage)
 * [Credits](#contributors)
 * [Tests](#tests)
-* [Github](#github)
-* [Email](#email)
 
 ## Installation
 To install necessary packages please run following command:
 n/a
-
 ## usage
-n/a
+(screenshot image or video will go here)
 ## contributors
-W3 schools, stackoverflow
+Class activities and tutoring
 ## tests
 n/a
-## github
-maritzadiaz77
-## email
-maritzadiaz77@gmail.com
+
 
